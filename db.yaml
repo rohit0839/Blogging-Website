@@ -1,0 +1,4 @@
+mysql_host: 'localhost'
+mysql_user: 'root'
+mysql_password: 'xxxx'  #Insert mysql password
+mysql_db: 'xxxx'        #Insert database name
