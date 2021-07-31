@@ -17,7 +17,7 @@ mysql> CREATE TABLE blog(blog_id int auto_increment,title varchar(100),author va
 ```
 Insert MySQL password and database name (blog_db) in _db.yaml_ file
 
-Install necessary python libarires as per _requirements.txt_ file
+Install necessary python libraries as per _requirements.txt_ file
 ```
 python app.py
 ```
