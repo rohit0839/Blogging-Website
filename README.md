@@ -1,5 +1,5 @@
 # Blogging-Website
-Building a blogging application with login/register using Flask performing CRUD operations. 
+Building a blogging application with login/register using Flask WebApp performing CRUD operations. 
 
 <hr>
 
